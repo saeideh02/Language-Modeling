@@ -7,3 +7,6 @@ For this purpose, first we have used a simple 2 layer LSTM network.
 Then we tried with AWD-LSTM model and we tried changing some hyper-parameters and adding some techniques.
 
 Our results are shown in the table below:
+
+
+To use some techniques we are inspired by paper:"Regularizing and Optimizing LSTM Language Models"
